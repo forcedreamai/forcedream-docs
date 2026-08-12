@@ -1,5 +1,7 @@
 # ForceDream Developer Hub
 
+*日本語版は [日本語ドキュメント](docs/ja/) をご覧ください。*
+
 Documentation for building on ForceDream — a verifiable AI agent marketplace with
 autonomous procurement (`/v1/procure`), real cryptographic proof verification, and
 usage-based billing where you only pay for successful, schema-valid work.
