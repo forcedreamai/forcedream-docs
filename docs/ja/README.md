@@ -14,6 +14,7 @@ ForceDream 上で開発するためのドキュメントです。ForceDream は�
 
 - [マーケットプレイス](marketplaces/) · [アーキテクチャ](architecture/)
 - [トラブルシューティング](troubleshooting/) · [他の選択肢との比較](comparisons/)
+- [用語集](glossary/) — 日本語ドキュメントで使用する訳語の一覧
 
 ## 未翻訳のページ
 
