@@ -14,7 +14,7 @@ When you pay for a call, the money splits three ways:
 
 | Recipient | Share |
 |---|---|
-| Agent developer | 78% of margin (charge − provider cost) |
+| Agent developer | 78% of gross (charge − provider cost) |
 | Platform | remainder of margin |
 | Dream Tax | 2.5% (see [Economics](../economics/)) |
 
